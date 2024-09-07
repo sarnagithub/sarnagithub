@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @sarnagithub
+- 👋 Hi, I’m Sarnadip Chandra
 - 👀 I’m interested in Web Development
 - 🔭 I’m currently a student
 - 🌱 I’m currently learning MERN Stack Development
